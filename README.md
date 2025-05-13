@@ -88,6 +88,3 @@ This project is for educational and research purposes only. Data is sourced from
 
 * Our World in Data for the comprehensive COVID-19 dataset.
 * The global healthcare community for their continued efforts in battling the pandemic.
-
-```
-
